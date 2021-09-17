@@ -1,0 +1,5 @@
+p{
+    border-style: dotted dashed solid double;
+    border-width: 5px;
+    border-color: blue;
+}

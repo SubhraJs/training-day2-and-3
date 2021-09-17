@@ -1,0 +1,19 @@
+p{
+    outline:solid red;
+    border: solid red;
+    line-height: 1.8;
+}
+
+h1{
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-decoration: line-through;
+    font-size: 40px;
+}
+
+h2{
+    text-transform: uppercase;
+    word-spacing:  18px;
+    text-shadow: 2px 2px 5px red;
+}
